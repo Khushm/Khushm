@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center"> Welcome! Where ideas turn into code. <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+<span align="center">
 <!--
 **Khushm/Khushm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
